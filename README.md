@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bengtssonadam
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  
-- 📫 How to reach me adam.bengtsson@sensative.com
+- 📫 How to reach me adam.bengtsson@lifefinder.se
 
 <!---
 bengtssonadam/bengtssonadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
